@@ -1,4 +1,4 @@
-# CryptoCurrency Price CHeck
+# CryptoCurrency Price
 > Outline a brief description of your project.
 > Live demo [_here_](https://crypto-vite.netlify.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
