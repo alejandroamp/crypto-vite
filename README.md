@@ -11,6 +11,7 @@
 - React - 18.0.0
 - Emotion/react - 11.9.0
 - Emotion/styled - 11.8.1
+- Vite 2.9.7
 
 
 ## Features
