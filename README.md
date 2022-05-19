@@ -1,5 +1,5 @@
 # CryptoCurrency Price
-> Outline a brief description of your project.
+> CryptoCurrencies price check in your local currency
 > Live demo [_here_](https://crypto-vite.netlify.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## General Information
